@@ -1,0 +1,5 @@
+# Ignore test.ipynb file
+test.ipynb
+
+# Ignore all files of the same type
+*.ipynb
